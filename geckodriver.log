@@ -17,3 +17,13 @@
 1586317085372	Marionette	INFO	Listening on port 64189
 1586317085454	Marionette	WARN	TLS certificate errors will be ignored for this session
 1586323791503	Marionette	INFO	Stopped listening on port 64189
+1586835612922	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_b/2cr99z410sddt8km9p9b9fs80000gn/T/rust_mozprofile.N28plZkBwFCr"
+1586835617446	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586835618049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586835618049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586835618050	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586835618050	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586835621893	Marionette	INFO	Listening on port 60587
+1586835621952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
+2020-04-14 09:44:39.881 firefox-bin[16543:436433] -deltaZ is deprecated for NSEventTypeMagnify.  Please use -magnification.
