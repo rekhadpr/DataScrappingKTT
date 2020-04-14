@@ -27,3 +27,4 @@
 1586835621952	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=0&gdpr_consent=, line 12: SecurityError: The operation is insecure.
 2020-04-14 09:44:39.881 firefox-bin[16543:436433] -deltaZ is deprecated for NSEventTypeMagnify.  Please use -magnification.
+1586843921527	Marionette	INFO	Stopped listening on port 60587
